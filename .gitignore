@@ -1,0 +1,37 @@
+# Ambiente virtuale
+.venv/
+
+# File Python compilati
+__pycache__/
+*.py[cod]
+*$py.class
+
+# File temporanei o di backup
+*.swp
+*.bak
+*.tmp
+
+# File di log
+*.log
+
+# File di test coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Output dei test
+.tox/
+.nox/
+
+# Configurazioni IDE
+.vscode/
+.idea/
+
+# Distribuzione pacchetti
+build/
+dist/
+*.egg-info/
+
+# File di sistema
+.DS_Store
+Thumbs.db
